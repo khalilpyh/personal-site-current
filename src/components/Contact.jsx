@@ -27,6 +27,8 @@ const Contact = () => {
   };
 
   const handleSubmit = (event) => {
+    //prevent default submission action
+    event.preventDefault();
     setLoading(true);
 
     //send the email
@@ -62,9 +64,6 @@ const Contact = () => {
           alert("Something went wrong. Please try again.");
         }
       );
-
-    //prevent default submission action
-    event.preventDefault();
   };
 
   return (
