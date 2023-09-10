@@ -20,6 +20,7 @@ import {
   figma,
   nc,
   ailiving,
+  fiverr,
   goatrello,
   shareme,
   ecommerce,
@@ -141,7 +142,7 @@ const experiences = [
     title: "Operations Coordinator",
     company_name: "Ai Living Inc.",
     icon: ailiving,
-    iconBg: "#383E56",
+    iconBg: "#fff",
     date: "September 2018 - October 2020",
     points: [
       "Planned and executed multiple interior design exhibitions at national and provincial levels.",
@@ -154,11 +155,24 @@ const experiences = [
     title: "Peer Tutor",
     company_name: "Niagara College",
     icon: nc,
-    iconBg: "#383E56",
+    iconBg: "#fff",
     date: "September 2022 - January 2023",
     points: [
       "Collaborated with students to complete homework assignments, identify areas for improvement, and address skill gaps.",
       "Promoted effective study habits and learning skills.",
+    ],
+  },
+  {
+    title: "Web Developer",
+    company_name: "Fiverr",
+    icon: fiverr,
+    iconBg: "#383E56",
+    date: "June 2023 - Present",
+    points: [
+      "Build web applications with web development best practices using React.js/ASP.NET MVC.",
+      "Transform app designs into front-end code.",
+      "Gather and refine specifications and requirements from clients.",
+      "Debug errors, troubleshoot issues, and perform routine performance optimizations.",
     ],
   },
 ];

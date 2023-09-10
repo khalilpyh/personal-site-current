@@ -26,8 +26,9 @@ import python from "./tech/python.png";
 import bootstrap from "./tech/bootstrap.png";
 
 //experiences
-import nc from "./company/nc.jpg";
-import ailiving from "./company/ailiving.jpg";
+import nc from "./company/nc.png";
+import fiverr from "./company/fiverr.png";
+import ailiving from "./company/ailiving.png";
 
 //testimonials
 import soiloptix from "./company/soiloptix.png";
@@ -68,6 +69,7 @@ export {
   bootstrap,
   nc,
   ailiving,
+  fiverr,
   goatrello,
   shareme,
   ecommerce,
