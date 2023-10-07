@@ -29,6 +29,7 @@ import bootstrap from "./tech/bootstrap.png";
 import nc from "./company/nc.png";
 import fiverr from "./company/fiverr.png";
 import ailiving from "./company/ailiving.png";
+import ef from "./company/ef.png";
 
 //testimonials
 import soiloptix from "./company/soiloptix.png";
@@ -70,6 +71,7 @@ export {
   nc,
   ailiving,
   fiverr,
+  ef,
   goatrello,
   shareme,
   ecommerce,
