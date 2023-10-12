@@ -185,7 +185,6 @@ const experiences = [
     points: [
       "Assisted with the on-going video project and built necessary pages using React.js",
       "Developed and maintained company's codebase and architecture.",
-      "Debuged errors, troubleshoot issues, and performed routine performance optimizations.",
       "Collaborated closely with other team members, debuged errors and troubleshoot issues.",
     ],
   },
