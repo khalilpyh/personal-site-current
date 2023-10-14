@@ -193,7 +193,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "It was a pleasure to work with Yuhao in programming courses and entrepreneurship. He is an outstanding learner both practically and theoretically. Yuhao maintained high academic grades in my classes.Yuhao is trustworthy, organized, responsible, hardworking, detail-oriented, and demonstrates exceptional problem-solving capability.",
+      "It was a pleasure to work with Khalil in programming courses and entrepreneurship. He is an outstanding learner both practically and theoretically. Khalil maintained high academic grades in my classes. Khalil is trustworthy, organized, responsible, hardworking, detail-oriented, and demonstrates exceptional problem-solving capability.",
     name: "Peter Vanscoy",
     designation: "Professor",
     company: "Niagara College",
